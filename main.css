@@ -1,0 +1,16 @@
+.buttonArea button {
+    padding: 10px 15px;
+    font-weight: bold;
+}
+.timer {
+    font-size: 30px;
+    margin-bottom:30px;
+    margin-left:15px;
+    letter-spacing: 0.5em;
+}
+.stop {
+    opacity:0.4;
+}
+.reset {
+    opacity:0.4;
+}
